@@ -1,2 +1,2 @@
 # Natural_Language_Processing
-Projects related to NLP
+Projects made with utilizing the concepts of NLP
